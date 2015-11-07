@@ -7,3 +7,5 @@ Barcelona
 Okonomiyaki
 ### Hobby
 Video games
+### Favorite Color
+Blue
