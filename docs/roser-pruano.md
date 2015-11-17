@@ -9,3 +9,4 @@ Okonomiyaki
 Video games
 ### Favorite Color
 Blue
+Red
